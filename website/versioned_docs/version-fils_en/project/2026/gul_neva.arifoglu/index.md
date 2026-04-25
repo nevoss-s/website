@@ -1,6 +1,6 @@
 # Secure RFID Zhome
 
-::info 
+:::info 
 **Author**: ARIFOGLU Gul Neva  \
 **GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-nevoss-s
 
